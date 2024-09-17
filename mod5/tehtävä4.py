@@ -16,19 +16,3 @@ while kierros < 5:
 
 for kaupunki in kaupungit:
     print(f"Kaupungin nimet: {kaupunki}")
-
-
-'''
-nimet = []
-etunimi = input("Anna ensimmäinen nimi tai lopeta painamalla Enter: ")
-while etunimi != "":
-    nimet.append(etunimi)
-    etunimi = input("Anna seuraava nimi tai lopeta painamalla Enter: ")
-
-for nimi in nimet:
-    print (f"Moi, {nimi}!")
-    
-    kaupunki3 = input("Anna kolmas kaupungin nimi: ")
-kaupunki4 = input("Anna neljäs kaupungin nimi: ")
-kaupunki5 = input("Anna viides kaupungin nimi: ")
-'''
